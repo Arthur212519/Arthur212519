@@ -1,22 +1,54 @@
-<div>
-  <a href="https://github.com/Arthur212519">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur212519&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur212519&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Para entrar em contato acesse as redes abaixo!
- 
-<div> 
-  <a href = "mailto:arthurolmo.negociosonline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-olmo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Arthur212519/Arthur212519/blob/output/github-contribution-grid-snake.svg)
+Full Stack Developer | JavaScript | TypeScript | Node.js | React
 
-</div>
+I'm a developer focused on building clean, secure and scalable applications, with a strong interest in backend development, authentication, APIs and system architecture.
+
+I believe that good software is not just about making things work, but about maintainability, security and clarity. I’m constantly improving my skills by building real projects and refactoring them to match production-level standards.
+
+🛠️ Tech Stack
+Backend
+
+Node.js
+
+Express
+
+REST APIs
+
+JWT Authentication
+
+PostgreSQL
+
+Python (general purpose / scripting)
+
+Frontend
+
+React.js
+
+JavaScript (ES6+)
+
+TypeScript
+
+HTML & CSS
+
+Dev & Cloud
+
+Git & GitHub
+
+Docker (learning)
+
+AWS (EC2, S3 – learning)
+
+Linux basics
+
+🔐 What I’m working on
+
+Improving authentication and authorization systems
+
+Implementing RBAC (Role-Based Access Control)
+
+OAuth (Google / GitHub)
+
+Refresh tokens and session management
+
+Backend architecture and best practices
+
+Writing cleaner, more maintainable code
