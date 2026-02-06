@@ -33,12 +33,6 @@ Dev & Cloud
 
 Git & GitHub
 
-Docker (learning)
-
-AWS (EC2, S3 – learning)
-
-Linux basics
-
 🔐 What I’m working on
 
 Improving authentication and authorization systems
